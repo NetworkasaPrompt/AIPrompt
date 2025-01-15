@@ -62,8 +62,6 @@ Stay updated with the latest developments:
 
 🌍 Website: networkasaprompt.com
 
-🐦 Twitter: @NetworkPrompt
-
 ✉️ Email: contact@networkasaprompt.com
 
 🔒 License
